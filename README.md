@@ -14,7 +14,7 @@ ANDROID
 
 ⌊ COMANDOS ⌉
 
-git clone 
+git clone https://github.com/Pegasus777killer/Covil
 
 python3 covil.py
 
