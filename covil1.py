@@ -48,4 +48,4 @@ while escolha == False:
         os.system ("pkg update && pkg upgrade")
     
     elif (nivel == 2):
-          os.system("painel")
+          os.system("https://github.com/Pegasus777killer/Covil")
